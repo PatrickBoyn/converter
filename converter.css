@@ -1,3 +1,11 @@
+body{
+    background-color:rgb(76, 113, 173);
+    color:white;
+}
+button{
+    border:none;
+    outline:none;
+}
 input{
     outline:none;
 }
